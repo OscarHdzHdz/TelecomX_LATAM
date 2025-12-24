@@ -48,6 +48,6 @@ En este proyecto se recopilaron, procesaron y analizaron los datos de un archivo
 * Desarrollo de modelos predictivos.
 
 ## Autor:
-Oscar Hernández Hernández/n
-Data Scientist en desarrollo./n
+Oscar Hernández Hernández\
+Data Scientist en desarrollo.\
 Proyecto desarrollado como parte de la formación en Data Science de Alura LATAM y ORACLE.
