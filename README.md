@@ -31,10 +31,10 @@ En este proyecto se recopilaron, procesaron y analizaron los datos de un archivo
 
 ## Hallazgos:
 * Cancelación por tipo de contrato: Como podemos ver, los clientes con contratos mes a mes representan un riesgo considerablemente mayor de cancelación (23.54%) VS los clientes con contratos a uno (2.36%) o dos años (0.68%).
-<img width="800" height="500" alt="imagen" src="https://github.com/user-attachments/assets/81503a3b-cf73-46ae-aa73-2f6cf98783fc" />
+<img width="600" height="350" alt="imagen" src="https://github.com/user-attachments/assets/81503a3b-cf73-46ae-aa73-2f6cf98783fc" />
 
 * Cancelación por tipo de servicio de internet: La gráfica muestra que los clientes con internet de Fibra óptica tienen una deserción mayor (18.44%) en comparación a aquellos con DSL (6.53%) o a aquellos que no tienen servicio de internet con la empresa (1.61%)
-<img width="800" height="500" alt="imagen" src="https://github.com/user-attachments/assets/85eecd8f-474c-4dcd-a8bc-39fa7407a48f" />
+<img width="600" height="350" alt="imagen" src="https://github.com/user-attachments/assets/85eecd8f-474c-4dcd-a8bc-39fa7407a48f" />
 
 * Cancelación por costo mensual: Los clientes que pagan costos mensuales más elevados son aquellos que terminan cancelando sus servicios.
 <img width="540" height="394" alt="imagen" src="https://github.com/user-attachments/assets/19316961-e61a-4cbb-b470-0cd8bf87e588" />
